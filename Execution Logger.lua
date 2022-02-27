@@ -6,7 +6,7 @@ local data =
     {
         ["content"] = "",
         ["embeds"] = {{
-            ["title"] = "__**Someone Just Executed KH**__",
+            ["title"] = "__**Someone Just Executed The Test**__",
             ["description"] = executed,
             ["type"] = "rich",
             ["color"] = tonumber(0x7269da),
